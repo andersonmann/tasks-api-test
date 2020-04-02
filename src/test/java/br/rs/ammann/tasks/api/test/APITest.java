@@ -1,6 +1,3 @@
-/**
- * 
- */
 package br.rs.ammann.tasks.api.test;
 
 import org.hamcrest.CoreMatchers;
